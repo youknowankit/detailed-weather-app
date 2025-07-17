@@ -1,4 +1,4 @@
-# 📍🌤️ Deatailed Weather App with Geolocation Support
+# 📍🌤️ Detailed Weather App with Geolocation Support
 
 This app is a 3rd project in a series and updated project of the geolocation-weather-app with geolocation functionality support & detailed weather reports. You can view the other versions here: 
 1. [Basic Project](https://github.com/youknowankit/weather-app)
