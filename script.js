@@ -1,4 +1,4 @@
-const apiKey = "API_KEY"; // Replace with your OpenWeather API key
+const apiKey = "bfa111a9624edbd98655f2ae5cd01081"; // Replace with your OpenWeather API key
 let currentWeatherData = null; // Store current weather data for details
 let showingDetails = false;
 
