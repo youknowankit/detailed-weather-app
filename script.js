@@ -210,3 +210,7 @@ function toggleDetails() {
 
   showingDetails = !showingDetails;
 }
+
+window.onload= function (){
+   getWeatherbyLocation(); 
+}
